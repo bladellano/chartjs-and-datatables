@@ -1,7 +1,4 @@
 $(function () {
-
-
-
     /**
      * Exibe o chart inicialmente.
      */
@@ -45,11 +42,6 @@ $(function () {
     });
 
 });//End
-
-
-function populateTable() {
-
-}
 
 /* Objeto que guarda os resultados da consulta na tabela */
 var oData = new Object();
